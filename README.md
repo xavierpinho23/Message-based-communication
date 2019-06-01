@@ -8,8 +8,7 @@ All communication between the three nodes is supported with JMS.
 # User:
 • List all books in the store (the information is provided by the store).
 • List all books matching a certain title.
-• Make a purchase order for one book, for which the user contacts the store with all
-necessary information, including (fictitious) credit card details.
+• Make a purchase order for one book, for which the user contacts the store with all necessary information, including (fictitious) credit card details.
 • See previously purchased books.
 • See pending purchases.
 • See current credit (a fictitious credit card number is sent to the bank).
